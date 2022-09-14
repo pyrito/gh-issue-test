@@ -1,7 +1,7 @@
 name: Bug report
 description: Report incorrect behavior in the Modin library
 title: 'BUG: '
-labels: 'bug 🦗, Triage 🩹'
+labels: ['bug 🦗', 'Triage 🩹']
 
 body:
   - type: checkboxes
