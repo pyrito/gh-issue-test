@@ -58,10 +58,13 @@ body:
         Please paste the output of any relevant error logs.
       value: >
         <details>
+
         <summary>Stack trace</summary>
 
         ```python-traceback
+
         Replace this line with the error backtrace (if applicable).
+
         ```
 
         </details>
